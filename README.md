@@ -22,6 +22,10 @@ This project aims to introduce to the wonderful world of virtualization
 ![Screenshot from 2024-12-15 15-14-42](https://github.com/user-attachments/assets/94e08eaf-7788-4791-966c-12e1f6f81b45)
 
 
+![Screenshot from 2024-12-15 15-30-43](https://github.com/user-attachments/assets/97c70453-3804-4f15-9fa7-cbbd0cecbcee)
+
+
+
 ![Screenshot from 2024-12-15 15-16-30](https://github.com/user-attachments/assets/28d655ad-4182-4a0f-8f31-5dcb416fcc9c)
 
 

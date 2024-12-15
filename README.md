@@ -23,3 +23,10 @@ This project aims to introduce to the wonderful world of virtualization
 
 
 ![Screenshot from 2024-12-15 15-16-30](https://github.com/user-attachments/assets/28d655ad-4182-4a0f-8f31-5dcb416fcc9c)
+
+
+
+/*---STEP 2---*/
+
+-->Installing the Virtual Machine
+

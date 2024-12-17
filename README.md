@@ -30,7 +30,13 @@ This project aims to introduce to the wonderful world of virtualization
 
 
 
-/*---STEP 2---*/
+/*---STEP 3---*/
 
--->Installing the Virtual Machine
+-->Configurating the VM
+        ->Starting the VM
+![Screenshot from 2024-12-17 10-48-22](https://github.com/user-attachments/assets/f4f14d68-79c3-4730-8b83-c5f7efacb0a7)
+        
+->Installing Sudo
+
+->Installing Git and Vim
 

@@ -46,5 +46,7 @@ This project aims to introduce to the wonderful world of virtualization
 -->Installing and Configuring SSH (Secure Shell Host)
 ![Screenshot from 2024-12-17 12-52-43](https://github.com/user-attachments/assets/a2a0d77f-df55-4161-9a17-1d7755549eb3)
 
+![Screenshot from 2024-12-17 14-26-39](https://github.com/user-attachments/assets/7dcdb4a4-23a3-4341-a707-6b4c6d4d7e41)
+
 
 

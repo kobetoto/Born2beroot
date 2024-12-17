@@ -2,7 +2,6 @@
 This project aims to introduce to the wonderful world of virtualization
 
 /*---STEP 1---*/
-
 -->Open virtualbox & Download the latest stable version of Debian (no testing/unstable)
 
 ![Screenshot from 2024-12-15 14-27-19](https://github.com/user-attachments/assets/2ffcbf7f-9c8c-4c0c-82c5-0f7dee1a1898)
@@ -10,7 +9,6 @@ This project aims to introduce to the wonderful world of virtualization
 
 
 /*---STEP 2---*/
-
 -->Installing the Virtual Machine
 
 ![Screenshot from 2024-12-15 15-07-22](https://github.com/user-attachments/assets/6a8e32c6-4eaf-4abf-b49c-47165a25ca76)
@@ -31,12 +29,22 @@ This project aims to introduce to the wonderful world of virtualization
 
 
 /*---STEP 3---*/
-
 -->Configurating the VM
-        ->Starting the VM
-![Screenshot from 2024-12-17 10-48-22](https://github.com/user-attachments/assets/f4f14d68-79c3-4730-8b83-c5f7efacb0a7)
-        
+
+->Starting the VM
+![Screenshot from 2024-12-17 12-05-55](https://github.com/user-attachments/assets/632c9b45-4514-46e2-9d99-18cd9b0b5cde)
+   
 ->Installing Sudo
+![Screenshot from 2024-12-17 12-36-16](https://github.com/user-attachments/assets/3d7cb509-7639-4fbc-a038-afac7ab4c356)
 
 ->Installing Git and Vim
+![Screenshot from 2024-12-17 12-47-28](https://github.com/user-attachments/assets/dd1b646b-14b4-48b2-8034-413a49e5f4aa)
+
+
+
+/*---STEP 4---*/
+-->Installing and Configuring SSH (Secure Shell Host)
+![Screenshot from 2024-12-17 12-52-43](https://github.com/user-attachments/assets/a2a0d77f-df55-4161-9a17-1d7755549eb3)
+
+
 

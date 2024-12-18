@@ -51,5 +51,12 @@ This project aims to introduce to the wonderful world of virtualization
 -->Installing and Configuring UFW (Uncomplicated Firewall)
 ![Screenshot from 2024-12-18 09-04-38](https://github.com/user-attachments/assets/70a4ed66-7338-4550-851c-d84db8e2ac5f)
 
+/*---STEP 5---*/
+-->Connecting to SSH
+![Screenshot from 2024-12-18 09-24-30](https://github.com/user-attachments/assets/e57919f5-f05b-47e4-8626-bf65a6e7350c)
+
+
+![Screenshot from 2024-12-18 09-35-51](https://github.com/user-attachments/assets/399942c0-b929-4b02-815c-2ecac1a76d01)
+
 
 

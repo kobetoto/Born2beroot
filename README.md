@@ -48,5 +48,8 @@ This project aims to introduce to the wonderful world of virtualization
 
 ![Screenshot from 2024-12-17 14-26-39](https://github.com/user-attachments/assets/7dcdb4a4-23a3-4341-a707-6b4c6d4d7e41)
 
+-->Installing and Configuring UFW (Uncomplicated Firewall)
+![Screenshot from 2024-12-18 09-04-38](https://github.com/user-attachments/assets/70a4ed66-7338-4550-851c-d84db8e2ac5f)
+
 
 

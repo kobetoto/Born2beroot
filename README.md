@@ -53,7 +53,8 @@ This project aims to introduce to the wonderful world of virtualization
 
 /*---STEP 5---*/
 -->Connecting to SSH
-![Screenshot from 2024-12-18 09-24-30](https://github.com/user-attachments/assets/e57919f5-f05b-47e4-8626-bf65a6e7350c)
+![Screenshot from 2024-12-20 12-57-41](https://github.com/user-attachments/assets/8671071c-ada8-4c7b-af38-875b9bcc53da)
+
 
 -->terminal to VM
 ![Screenshot from 2024-12-20 11-57-08](https://github.com/user-attachments/assets/2b088dd4-78fc-441d-96a3-faa209b44af1)

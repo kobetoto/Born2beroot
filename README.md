@@ -62,12 +62,26 @@ This project aims to introduce to the wonderful world of virtualization
 
 
 
-/*---STEP 5---*/
+/*---STEP 6---*/
 -->Setting Password Policy
 ![Screenshot from 2024-12-18 10-10-52](https://github.com/user-attachments/assets/88de62c1-4705-44f3-badd-4777bbcf6f71)
 
 
 
-
+/*---STEP 7---*/
+-->Script SSH
+The script must always be able to display the following information:
+• The architecture of your operating system and its kernel version.
+• The number of physical processors.
+• The number of virtual processors.
+• The current available RAM on your server and its utilization rate as a percentage.
+• The current available storage on your server and its utilization rate as a percentage.
+• The current utilization rate of your processors as a percentage.
+• The date and time of the last reboot.
+• Whether LVM is active or not.
+• The number of active connections.
+• The number of users using the server.
+• The IPv4 address of your server and its MAC (Media Access Control) address.
+• The number of commands executed with the sudo program.
 
 

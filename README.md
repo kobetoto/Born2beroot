@@ -55,6 +55,13 @@ This project aims to introduce to the wonderful world of virtualization
 -->Connecting to SSH
 ![Screenshot from 2024-12-18 09-24-30](https://github.com/user-attachments/assets/e57919f5-f05b-47e4-8626-bf65a6e7350c)
 
+-->terminal to VM
+![Screenshot from 2024-12-20 11-57-08](https://github.com/user-attachments/assets/2b088dd4-78fc-441d-96a3-faa209b44af1)
+
+![Screenshot from 2024-12-20 11-57-38](https://github.com/user-attachments/assets/330ba4c1-184c-4407-8c49-17fcae2944be)
+
+
+
 /*---STEP 5---*/
 -->Setting Password Policy
 ![Screenshot from 2024-12-18 10-10-52](https://github.com/user-attachments/assets/88de62c1-4705-44f3-badd-4777bbcf6f71)

@@ -84,4 +84,8 @@ The script must always be able to display the following information:
 • The IPv4 address of your server and its MAC (Media Access Control) address.
 • The number of commands executed with the sudo program.
 
+![Screenshot from 2024-12-20 12-54-10](https://github.com/user-attachments/assets/77fe8e06-513c-4fd2-82a2-6a7f13eb855e)
+
+![Screenshot from 2024-12-20 12-55-08](https://github.com/user-attachments/assets/67c18b00-9af5-485b-904f-a6f446298c6b)
+
 

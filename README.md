@@ -90,3 +90,13 @@ The script must always be able to display the following information:
 ![Screenshot from 2024-12-20 12-55-08](https://github.com/user-attachments/assets/67c18b00-9af5-485b-904f-a6f446298c6b)
 
 
+
+
+
+
+/*************************************BONUS*************************************/
+/*---MANUAL PARTITIONING METHOD---*/
+
+![Screenshot from 2024-12-20 14-01-27](https://github.com/user-attachments/assets/f08f3bb2-dadf-4923-9715-15446bdd3875)
+
+

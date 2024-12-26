@@ -99,6 +99,9 @@ The script must always be able to display the following information:
 --> Allow connections through port 80
 ![Screenshot from 2024-12-26 13-19-53](https://github.com/user-attachments/assets/e5252c39-4d58-4705-a53e-78de872174ac)
 
+--> DL wordpress
+![Screenshot from 2024-12-26 13-32-15](https://github.com/user-attachments/assets/8c536b15-9ef5-49c0-9585-0a22c389a697)
+
 
 
 

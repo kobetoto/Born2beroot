@@ -122,7 +122,3 @@ The script must always be able to display the following information:
 
 ![Screenshot from 2024-12-26 14-21-01](https://github.com/user-attachments/assets/1b7e71c9-f4b6-4194-b448-7df763af9284)
 
-
-![Screenshot from 2024-12-26 14-33-13](https://github.com/user-attachments/assets/8d5968c8-e289-4cce-835f-0a3c70ec42b7)
-
-

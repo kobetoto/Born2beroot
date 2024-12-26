@@ -100,21 +100,29 @@ The script must always be able to display the following information:
 ![Screenshot from 2024-12-26 13-19-53](https://github.com/user-attachments/assets/e5252c39-4d58-4705-a53e-78de872174ac)
 
 
---> DL wordpress
+/*---WORDPRESS---*/
 
 ![Screenshot from 2024-12-26 13-32-15](https://github.com/user-attachments/assets/8c536b15-9ef5-49c0-9585-0a22c389a697)
 
 
--->DL MariaDB
+/*---MARIADB---*/
 
 ![Screenshot from 2024-12-26 13-38-59](https://github.com/user-attachments/assets/30fb03d2-1293-45ed-be40-eafbd1d0ebab)
 
--->Conf MariaDB
+-->MariaDB config
 
 ![Screenshot from 2024-12-26 13-49-06](https://github.com/user-attachments/assets/b080a41f-d27d-482e-985f-98f26399784a)
 
 
+![Screenshot from 2024-12-26 14-01-48](https://github.com/user-attachments/assets/7c85f3f6-2c4e-4390-8ed8-e87dd689c9fe)
 
 
+/*---PHP---*/
+--> WordPress config
+
+![Screenshot from 2024-12-26 14-21-01](https://github.com/user-attachments/assets/1b7e71c9-f4b6-4194-b448-7df763af9284)
+
+
+![Screenshot from 2024-12-26 14-33-13](https://github.com/user-attachments/assets/8d5968c8-e289-4cce-835f-0a3c70ec42b7)
 
 

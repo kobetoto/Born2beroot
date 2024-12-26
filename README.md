@@ -95,7 +95,10 @@ The script must always be able to display the following information:
 
 
 /*************************************BONUS*************************************/
-/*---MANUAL PARTITIONING METHOD---*/
+/*---LIGHTTPD---*/
+--> Allow connections through port 80
+![Screenshot from 2024-12-26 13-19-53](https://github.com/user-attachments/assets/e5252c39-4d58-4705-a53e-78de872174ac)
+
 
 
 

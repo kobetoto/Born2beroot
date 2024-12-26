@@ -99,9 +99,19 @@ The script must always be able to display the following information:
 --> Allow connections through port 80
 ![Screenshot from 2024-12-26 13-19-53](https://github.com/user-attachments/assets/e5252c39-4d58-4705-a53e-78de872174ac)
 
+
 --> DL wordpress
+
 ![Screenshot from 2024-12-26 13-32-15](https://github.com/user-attachments/assets/8c536b15-9ef5-49c0-9585-0a22c389a697)
 
+
+-->DL MariaDB
+
+![Screenshot from 2024-12-26 13-38-59](https://github.com/user-attachments/assets/30fb03d2-1293-45ed-be40-eafbd1d0ebab)
+
+-->Conf MariaDB
+
+![Screenshot from 2024-12-26 13-49-06](https://github.com/user-attachments/assets/b080a41f-d27d-482e-985f-98f26399784a)
 
 
 

@@ -97,6 +97,8 @@ The script must always be able to display the following information:
 /*************************************BONUS*************************************/
 /*---MANUAL PARTITIONING METHOD---*/
 
-![Screenshot from 2024-12-20 14-01-27](https://github.com/user-attachments/assets/f08f3bb2-dadf-4923-9715-15446bdd3875)
+
+
+
 
 

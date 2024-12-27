@@ -128,4 +128,9 @@ The script must always be able to display the following information:
 
 ![image](https://github.com/user-attachments/assets/3f54824f-5f06-4f0d-ac9a-1f538e333627)
 
+/*---LiteSpeed---*/
+
+![image](https://github.com/user-attachments/assets/d8610757-d913-4a37-9aad-b71a83b67b7d)
+
+![image](https://github.com/user-attachments/assets/ec6cad04-4b53-4faa-a9cd-c4eec4ed2f64)
 
